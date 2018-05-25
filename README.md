@@ -1,5 +1,5 @@
 # Labyrinth_robot
-Arduino Project, done in colaboration with @mjcs-95
+Arduino Project, done in collaboration with @mjcs-95
 
 # Labyrinth dimensions
 The Labyrinth was a 5x5 matrix of square cells.
